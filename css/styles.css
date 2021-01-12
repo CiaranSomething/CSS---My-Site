@@ -67,9 +67,7 @@ h3 {
 }
 
 #jade-logo {
-    background-color: green;
     width: 25%;
-    height: 50%;
     float: left;
     margin-right: 30px;
     border-radius: 50%;
@@ -78,7 +76,7 @@ h3 {
 #aspdotnet-logo {
     width: 25%;
     float: right;
-    margin-right: 30px;
+    margin-left: 30px;
     border-radius: 50%;
 }
 
